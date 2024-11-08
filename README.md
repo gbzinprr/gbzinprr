@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gbzinprr
-- 👀 I’m interested in python projects, programming tips, learning every thing that a can learn, and a lot of other things!
+- 👀 I’m interested on python projects, programming tips, learning every thing that a can learn, and a lot of other things!
 - 🌱 I’m currently learning programming languages, how the internt and the computers works, and tecnology things!
 - 💞️ I’m looking to collaborate on programming projects, and every thing that I can help.
 - 📫 How to reach me my e-mail: gregoriobeckenkamp@gmail.com
